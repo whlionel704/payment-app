@@ -23,7 +23,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This is a simple payment app used for experimenting with nodeJS compatible testing frameworks and tools
 
 ## Project setup
 
@@ -55,6 +55,9 @@ $ npm run test:e2e
 
 # test coverage
 $ npm run test:cov
+
+# strykerJS mutation tests
+$ npm run test:stryker
 ```
 
 ## Deployment
